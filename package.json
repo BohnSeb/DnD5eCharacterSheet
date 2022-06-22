@@ -1,0 +1,24 @@
+{
+  "name": "dnd5echaractersheet",
+  "version": "1.0.0",
+  "description": "An Objekt representing a Dungeons and Dragons 5th edition Charactersheet. Also adding some utility functions to input data",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BohnSeb/DnD5eCharacterSheet.git"
+  },
+  "keywords": [
+    "dnd5e",
+    "character",
+    "charactersheet"
+  ],
+  "author": "Sebastian Bohn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BohnSeb/DnD5eCharacterSheet/issues"
+  },
+  "homepage": "https://github.com/BohnSeb/DnD5eCharacterSheet#readme"
+}
